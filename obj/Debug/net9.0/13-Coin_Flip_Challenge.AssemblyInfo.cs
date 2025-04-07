@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("13-Coin_Flip_Challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85f02b45f817aab1d81d18282276b1efe608b9ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae76dea517c66fd6fa15450b872744124147695")]
 [assembly: System.Reflection.AssemblyProductAttribute("13-Coin_Flip_Challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("13-Coin_Flip_Challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
